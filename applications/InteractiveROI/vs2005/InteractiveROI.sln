@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveROI", "InteractiveROI.csproj", "{B1DF112F-0212-412C-A6F5-0E93C1C74BB2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F} = {C4F5C5DE-7EA8-47FE-8218-48138F48965F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewROI", "..\..\..\base\ViewROI\vs2005\ViewROI.csproj", "{C4F5C5DE-7EA8-47FE-8218-48138F48965F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DF112F-0212-412C-A6F5-0E93C1C74BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DF112F-0212-412C-A6F5-0E93C1C74BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DF112F-0212-412C-A6F5-0E93C1C74BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DF112F-0212-412C-A6F5-0E93C1C74BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

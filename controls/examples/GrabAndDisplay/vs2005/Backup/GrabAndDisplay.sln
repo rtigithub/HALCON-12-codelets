@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HImageAcquisition", "..\..\..\HImageAcquisition\vs2005\HImageAcquisition.csproj", "{39205745-A672-4B06-94EA-E857C5684808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabAndDisplay", "GrabAndDisplay.csproj", "{511CF3B4-B069-4F9B-BF5A-17EC799CA809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDisplayControl", "..\..\..\HDisplayControl\vs2005\HDisplayControl.csproj", "{65448F33-C957-49DF-A588-FDB0D6C25A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39205745-A672-4B06-94EA-E857C5684808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39205745-A672-4B06-94EA-E857C5684808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39205745-A672-4B06-94EA-E857C5684808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39205745-A672-4B06-94EA-E857C5684808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511CF3B4-B069-4F9B-BF5A-17EC799CA809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511CF3B4-B069-4F9B-BF5A-17EC799CA809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511CF3B4-B069-4F9B-BF5A-17EC799CA809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511CF3B4-B069-4F9B-BF5A-17EC799CA809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65448F33-C957-49DF-A588-FDB0D6C25A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65448F33-C957-49DF-A588-FDB0D6C25A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65448F33-C957-49DF-A588-FDB0D6C25A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65448F33-C957-49DF-A588-FDB0D6C25A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
